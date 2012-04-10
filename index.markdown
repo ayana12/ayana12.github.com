@@ -93,7 +93,6 @@ Yes. We have top-class security and the campus will be fully locked down on the 
 
 If you have any more queries, shoot a mail to pesos@pes.edu. You can also find us on our IRC channel #pes-os on freenode.
 
-[Fork this project on GitHub][github]
 
 [self]: http://ayana.in/ "Ayana 12"
 [github]: https://github.com/ayana12/ayana12.github.com/ "Fork on GitHub"
