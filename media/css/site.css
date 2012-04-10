@@ -5,8 +5,13 @@ html {
     line-height: 20px;
 }
 
-h1, h2, h3, p, li {
+h1, h2, h3, p{
     margin: 0 0 20px;
+    position: relative;
+}
+
+li {
+	
     position: relative;
 }
 
