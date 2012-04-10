@@ -18,7 +18,6 @@ Hackathon is not about network hacks, rather it’s to simulate a bunch of ideas
 
 ##Where?
 PESIT, Bangalore
-<iframe src="http://maps.google.co.in/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=PES+Institute+of+Technology,+BSK+-+3rd+stage,+Outer+Ring+Road,+Banashankari,+Bengaluru,+Karnataka&amp;aq=0&amp;sll=21.125498,81.914063&amp;sspn=44.889204,86.572266&amp;vpsrc=0&amp;ie=UTF8&amp;hq=&amp;hnear=Outer+Ring+Rd&amp;t=m&amp;z=14&amp;ll=12.923893,77.553244&amp;output=embed" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" width="250" height="250"></iframe>
 
 ##The Organizers
 ###About the Institution
